@@ -1,2 +1,1 @@
-# Vendor-Performance
-Vendor Performance Analysis 
+I Built an end-to-end data pipeline in Python + SQLite to efficiently process vendor sales, profit, pricing, and inventory.Combined multiple purchases, sales, and invoices datasets to compute KPIs like sales, margin, turnover, and profit.Created an interactive Power BI dashboard showcasing top vendors, underperforming brands, and bulk-buy pricingeffects.Delivered actionable insights on inventory turnover to directly support pricing and promotion decisions.
